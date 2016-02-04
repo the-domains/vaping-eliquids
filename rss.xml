@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vaping Eliquids]]></title>
+        <description><![CDATA[Vaping Eliquids]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 21:50:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to our new site. Enjoy your stay. </p>]]></description>
+            <link>undefined055d41f5-0a4c-425e-8f27-89ae70893a83/index.html</link>
+            <guid isPermaLink="false">055d41f5-0a4c-425e-8f27-89ae70893a83</guid>
+            <pubDate>Thu, 04 Feb 2016 21:49:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
